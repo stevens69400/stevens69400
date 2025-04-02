@@ -10,7 +10,7 @@
 
 🛠 Tech Stack: TypeScript, JavaScript, Node.js, SQL, Playwright, GitHub Actions
 
-📄 Know about my experiences 
+📄 Know about my experiences: https://black-jehanna-8.tiiny.site
 
 📫 Reach Me At: stevenstafford72@gmail.com
 
