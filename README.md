@@ -1,6 +1,6 @@
 ## Hi, I'm Steve
 
-👋🏽 Technical Support Specialist transitioning into Backend Development 🚀
+👋🏽 Technical Support Specialist  🚀
 
 🎓 Education: Assoicates Computer Science @ South College, Nashville, TN
 
