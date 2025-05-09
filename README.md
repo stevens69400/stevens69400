@@ -8,7 +8,7 @@
 
 📖 Currently Learning: SQL (Certification in Progress) – Mosh Hamedani's Complete SQL Mastery
 
-🛠 Tech Stack: TypeScript, JavaScript, Node.js, SQL, Playwright, GitHub Actions
+🛠 Tech Stack: TypeScript, JavaScript, SQL, Playwright, GitHub Actions
 
 📄 Know about my experiences: https://drive.google.com/file/d/1AZVKNw2mo7YsX3ZBkq9UL5xQ-dVswZj5/view 
 
